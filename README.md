@@ -1,5 +1,6 @@
 # TravelersProblem
 Period 4, Group 2
+
 Group members: Emma Chio, Grace Chen, Greta Yang, Emmy Chen, Elizabeth Stansberry, Edward Oo
 - We were discussing whether or not we should use Random and how we should use it. We decided to use a 2d array and generate random route possibilities.
 - Made the repo, invited group members, scheduled a meeting.
